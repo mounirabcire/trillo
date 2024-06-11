@@ -1,6 +1,6 @@
 .logo {
     height: 3.25rem;
-    
+
     @media only screen and (max-width: $bp-smaller) {
         margin-left: 1rem;
     }
@@ -237,8 +237,8 @@
         padding: 1.5rem 3rem;
 
         @media only screen and (max-width: $bp-small) {
-            font-size: 1.8rem;
-            padding: 1.25rem 2rem;
+            font-size: 1.6rem;
+            padding: 1rem;
         }
     }
 
@@ -274,7 +274,8 @@
         align-items: center;
 
         @media only screen and (max-width: $bp-small) {
-            padding: 0 .5rem;
+            padding: 0 0.75rem;
+            margin-left: .2rem;
         }
     }
 
