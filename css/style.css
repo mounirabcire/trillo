@@ -443,11 +443,11 @@ body {
     font-family: sans-serif; }
 
 .cta {
-  padding: 3.5rem 0;
+  padding: 3.5rem 1rem;
   text-align: center; }
   @media only screen and (max-width: 56.25em) {
     .cta {
-      padding: 2.5rem 0; } }
+      padding: 2.5rem 1rem; } }
   .cta__book_now {
     font-size: 2rem;
     font-weight: 300;
