@@ -1,8 +1,0 @@
-1- display: flex-inline => will create an flex container which will behaves as an inline element
-2- justify-content for the main axes and aling-items for the cross axes, align-content(cross axes), value of stetch(stretch the rows)
-3- aling-items: stretch => (default) it stretches all the other element to match the hight of the highest flex items
-4- aling-items: baseline => if one of the flex item has big font-size it'll align the text on the flex-item (imagine a line on bottom of text's flex items)
-5- flexbox on items=> align-self(simillar as align-items), order(int)(the lowest order is gonna be the first and the highest order from the end), 
-flex-grow or flex: int(the ability of an flex-item to grow), flex-basis(the width of a flex item), flex-shrink (how a flex-item can shrink) value of 1(default) means that
-the flex-item is allowed to shrink, value of 0 means that the item is not allowed to shrink it'll not change its width
-6- svg => scalable vector graphics
